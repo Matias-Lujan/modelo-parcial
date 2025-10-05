@@ -1,0 +1,34 @@
+@host=http://127.0.0.1:3001
+
+GET {{host}}/api/user/5b1893a0
+
+###
+POST {{host}}/api/user/create
+Content-Type: application/json
+
+{
+    "nombre": "Pepe",
+    "apellido": "Juarez",
+    "edad": 38,
+    "genero": "M",
+    "direccion": "calle falsa 123",
+    "nacionalidad": "Argentina"
+
+}
+
+###
+DELETE {{host}}/api/user/delete/d38c3346
+
+###
+PATCH {{host}}/api/user/patch/5b1893a0
+Content-Type: application/json
+
+{
+    "nombre": "Pepe",
+    "apellido": "Juarez",
+    "edad": 40,
+    "genero": "M",
+    "direccion": "calle verdadera 123",
+    "nacionalidad": "Argentina"
+
+}

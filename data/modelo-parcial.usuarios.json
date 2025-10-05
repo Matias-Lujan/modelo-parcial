@@ -1,0 +1,11 @@
+[
+  {
+    "id": "5b1893a0",
+    "nombre": "Pepe",
+    "apellido": "Juarez",
+    "edad": 40,
+    "genero": "M",
+    "direccion": "calle verdadera 123",
+    "nacionalidad": "Argentina"
+  }
+]

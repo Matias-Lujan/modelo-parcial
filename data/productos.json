@@ -1,0 +1,123 @@
+[
+  {
+    "id": "p001",
+    "nombre": "tornillo",
+    "descripcion": "Tornillo de acero inoxidable",
+    "cantidad": 50,
+    "tags": [
+      "plata",
+      "rosca",
+      "resistente"
+    ]
+  },
+  {
+    "id": "p002",
+    "nombre": "arandela",
+    "descripcion": "Arandela plana estándar",
+    "cantidad": 200,
+    "tags": [
+      "pequeña",
+      "circular",
+      "acero"
+    ]
+  },
+  {
+    "id": "p003",
+    "nombre": "clavo",
+    "descripcion": "Clavo de construcción 2 pulgadas",
+    "cantidad": 500,
+    "tags": [
+      "punta",
+      "obra",
+      "barato"
+    ]
+  },
+  {
+    "id": "p004",
+    "nombre": "destornillador",
+    "descripcion": "Destornillador Philips mediano",
+    "cantidad": 15,
+    "tags": [
+      "herramienta",
+      "manual",
+      "mango"
+    ]
+  },
+  {
+    "id": "p005",
+    "nombre": "martillo",
+    "descripcion": "Martillo de carpintero clásico",
+    "cantidad": 8,
+    "tags": [
+      "madera",
+      "pesado",
+      "obra"
+    ]
+  },
+  {
+    "id": "p006",
+    "nombre": "llave inglesa",
+    "descripcion": "Llave inglesa ajustable 12 pulgadas",
+    "cantidad": 6,
+    "tags": [
+      "ajustable",
+      "hierro",
+      "mecánica"
+    ]
+  },
+  {
+    "id": "p007",
+    "nombre": "taladro",
+    "descripcion": "Taladro eléctrico portátil",
+    "cantidad": 4,
+    "tags": [
+      "eléctrico",
+      "potente",
+      "perforar"
+    ]
+  },
+  {
+    "id": "p008",
+    "nombre": "mecha",
+    "descripcion": "Mecha de 10mm para taladro",
+    "cantidad": 40,
+    "tags": [
+      "acero",
+      "perforar",
+      "circular"
+    ]
+  },
+  {
+    "id": "p009",
+    "nombre": "cinta métrica",
+    "descripcion": "Cinta métrica de 5 metros",
+    "cantidad": 20,
+    "tags": [
+      "medir",
+      "plástico",
+      "plegable"
+    ]
+  },
+  {
+    "id": "p010",
+    "nombre": "alicate",
+    "descripcion": "Alicate universal con mango ergonómico",
+    "cantidad": 12,
+    "tags": [
+      "corte",
+      "manual",
+      "ergonómico"
+    ]
+  },
+  {
+    "id": "af234757",
+    "nombre": "tuerca",
+    "descripcion": "Cambio de descripcion",
+    "cantidad": 10,
+    "tags": [
+      "gris",
+      "rosca",
+      "barato"
+    ]
+  }
+]
